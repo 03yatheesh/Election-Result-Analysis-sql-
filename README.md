@@ -24,7 +24,6 @@ PROBLEM STATMENT:
     -> For the state of Maharashtra, what are the total number of seats, otal number of candidates, total number of parties,total votes(including EVM and Postal),and teh breakdown of EVM and Postal votes
 
 
-
 Function which have used:
     -> DISTINCT       -> ON                -> SELECT
     -> COUNT()        -> ORDER BY          -> PARTITION BY
