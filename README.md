@@ -7,6 +7,7 @@ TITLE:
 
 
 PROBLEM STATMENT:
+<br>
     -> Total Seats 
     -> what are the total number of seats available for elections in each state
     -> Total Seats won by NDA alliance
